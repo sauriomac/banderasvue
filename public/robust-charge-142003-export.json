@@ -1,0 +1,284 @@
+[{
+    "cantidad" : 1,
+    "description" : "Лосось, копчений,  Рис, Норі, Філадельфія, Огірок, Авокадо, Тамаго, Які, Кунжут смажений білий, Кунжут чорний",
+    "id" : 1,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/fila1.png?alt=media&token=42cf6bd9-7b7e-450f-a8e9-8d200cafe1e4",
+    "nombre" : "Філадельфія XL в копченому лососі 265г 8 шт.",
+    "precio" : "175"
+  },
+  {
+    "cantidad" : 1,
+    "description" : "Лосось копчений, Рис, Норі, Філадельфія, Копчений лосось, Огірок.",
+    "id" : 2,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/fila-classic.png?alt=media&token=215eafd1-f628-4065-94f6-f08e4dbec05f",
+    "nombre" : "Філадельфія класік в копченому лососі 250г 8 шт.",
+    "precio" : "155"
+  }, {
+    "cantidad" : 1,
+    "description" : "Вугор, Філадельфія, Норі, Рис, Авокадо, Огірок, Кунжут смажений білий, Кунжут чорний.",
+    "id" : 3,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/fila-chicken.png.pagespeed.ce.gE-wPg2Dwb.png?alt=media&token=99e50fdb-5a51-42c2-9a02-2ffb57528f41",
+    "nombre" : "Філадельфія рол в кунжуті з вугрем 200г 8 шт.",
+    "precio" : "110"
+  }, {
+    "cantidad" : 1,
+    "description" : "Креветка тигрова, Філадельфія, Авокадо, Огірок, Норі, Рис, Кунжут смажений білий,Кунжут чорний.",
+    "id" : 4,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/fila-chicken.png.pagespeed.ce.gE-wPg2Dwb.png?alt=media&token=99e50fdb-5a51-42c2-9a02-2ffb57528f41",
+    "nombre" : "Філадельфія рол в кунжуті з креветкою 200г 8 шт.",
+    "precio" : "105"
+  }, {
+    "cantidad" : 1,
+    "description" : "Лосось ,Філадельфія,Авокадо, Огірок, Норі, Рис, Кунжут смажений білий,Кунжут чорний.",
+    "id" : 5,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/fila-chicken.png.pagespeed.ce.gE-wPg2Dwb.png?alt=media&token=99e50fdb-5a51-42c2-9a02-2ffb57528f41",
+    "nombre" : "Філадельфія рол в кунжуті з лососем 200г 8 шт.",
+    "precio" : "105"
+  } ,
+  {
+    "cantidad" : 1,
+    "description" : "Лосось копчений, Рис, Норі, Майонез, Огірок, Авокадо, Тамаго Які,  Кунжут смажений білий, Кунжут чорний.",
+    "id" : 6,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/california-salmon-kopch.png.pagespeed.ce.n0sF-T9bql.png?alt=media&token=3e77686f-f168-45c4-9a23-ab1e6bfe56ac",
+    "nombre" : "Каліфорнія XL в копченому лососі 265г 8 шт.",
+    "precio" : "155"
+  }, {
+    "cantidad" : 1,
+    "description" : "Лосось копчений, Огірок, Рис, Норі, Майонез",
+    "id" : 7,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/california-salmon-kopch.png.pagespeed.ce.n0sF-T9bql.png?alt=media&token=3e77686f-f168-45c4-9a23-ab1e6bfe56ac",
+    "nombre" : "Каліфорнія в копченому лососі 215г 8 шт.",
+    "precio" : "135"
+  }, {
+    "cantidad" : 1,
+    "description" : "Вугор, Огірок, Авокадо, Норі, Рис, Майонез японський, Кунжут смажений білий, Кунжут чорний.",
+    "id" : 8,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/california-ugor.png?alt=media&token=503afb40-29f5-49fb-b172-399fab14213e",
+    "nombre" : "Каліфорнія рол в кунжуті з вугрем 195г 8 шт.",
+    "precio" : "95"
+  }, {
+    "cantidad" : 1,
+    "description" : "Сніжний краб, Огірок, Авокадо, Норі, Рис, Майонез японський,Кунжут смажений білий, Кунжут чорний.",
+    "id" : 9,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/losos-crab.png?alt=media&token=6284a90e-dbf4-4110-ac95-0925781215dc",
+    "nombre" : "Каліфорнія рол в кунжуті з крабом 195г 8 шт.",
+    "precio" : "69"
+  }, {
+    "cantidad" : 1,
+    "description" : "Креветка тигрова, Огірок, Авокадо, Норі, Рис, Майонез японський, Кунжут смажений білий, Кунжут чорний.",
+    "id" : 10,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/chiken-kunzhut.png?alt=media&token=0f3bd542-afb4-4e3f-8443-bb2bbd315048",
+    "nombre" : "Каліфорнія рол в кунжуті з креветкою 195г 8 шт.",
+    "precio" : "89"
+  }, {
+    "cantidad" : 1,
+    "description" : "Лосось, Авокадо, Огірок, Норі, Рис, Майонез японський, Кунжут смажений білий, Кунжут чорний.",
+    "id" : 11,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/california-salmon.png.pagespeed.ce.94sLT-hPAm.png?alt=media&token=b74b0fcd-4983-4a8b-ba5d-66eca633d603",
+    "nombre" : "Каліфорнія рол в кунжуті з лососем 195г 8 шт.",
+    "precio" : "89"
+  } ,
+  {
+    "cantidad" : 1,
+    "description" : "Огірок, Рис, Норі.",
+    "id" : 11,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/maki-ogirok.png?alt=media&token=a0cd4844-3adb-4e45-a4a1-1b74894cb3f0",
+    "nombre" : "Макі рол з огірком 115г 12 шт.",
+    "precio" : "39"
+  }, {
+    "cantidad" : 1,
+    "description" : "Чука, Рис, Норі, Кунжут смажений білий, Кунжут чорний.",
+    "id" : 12,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/240325-405-336-maki_roll_s_chukoj.png?alt=media&token=7aaa6039-1471-4005-a3e0-bc47b1b0f2f3",
+    "nombre" : "Макі рол з чукой 115г 12 шт.",
+    "precio" : "55"
+  }, {
+    "cantidad" : 1,
+    "description" : " Авокадо, Рис, Норі.",
+    "id" : 13,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/maki-avocado.png?alt=media&token=6b69b0e4-7c44-4ef9-a102-98e4112cd8ed",
+    "nombre" : "Макі рол з авокадо 115г 12 шт.",
+    "precio" : "59"
+  }, {
+    "cantidad" : 1,
+    "description" : "Лосось, Огірок, Рис, Норі",
+    "id" : 14,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/maki-salmon-kopch.png?alt=media&token=7b7baa31-b718-4c23-9f17-4ea09d4b95ff",
+    "nombre" : "Макі рол з лососем 115г 12 шт.",
+    "precio" : "69"
+  }, {
+    "cantidad" : 1,
+    "description" : "Тамаго які, Рис, Норі, Соус Унагі. ",
+    "id" : 15,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/maki-ogirok.png?alt=media&token=a0cd4844-3adb-4e45-a4a1-1b74894cb3f0",
+    "nombre" : "Макі рол з омлетом 115г 12 шт.",
+    "precio" : "49"
+  }, {
+    "cantidad" : 1,
+    "description" : "Вугор, Рис, Норі, Унагі соус,  Кунжут смажений білий,Кунжут чорний.",
+    "id" : 16,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/maki-ugor.png.pagespeed.ce.67ro3Quf2H.png?alt=media&token=5e7df5f3-b758-49a0-8b42-a25ee79dc199",
+    "nombre" : "Макі рол з вугорем 120г 12 шт.",
+    "precio" : "85"
+  },
+   {
+    "cantidad" : 1,
+    "description" : "Вугор, Авокадо, Огірок, Норі, Рис Майонез японський, Чілі гарлік, Кунжут смажений білий, Кунжут чорний.",
+    "id" : 17,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/hot-roll-ugor.png?alt=media&token=5ff9e9b2-f480-4797-8f39-6dacc30325d4",
+    "nombre" : "Спайсі рол в кунжуті з вугрем 195г 8 шт.",
+    "precio" : "115"
+  }, {
+    "cantidad" : 1,
+    "description" : "Сніжний краб, Авокадо, Огірок, Норі, Рис, Майонез японський, Чілі гарлік,  Кунжут смажений білий, Кунжут чорний.",
+    "id" : 18,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/hot-roll-krab.png.pagespeed.ce.E3dcW63uAn.png?alt=media&token=09aaa9e1-3f81-411d-85fe-ae1f839fd3ca",
+    "nombre" : "Спайсі рол в кунжуті з крабом 195г 8 шт.",
+    "precio" : "75"
+  }, {
+    "cantidad" : 1,
+    "description" : " Креветка тигрова, Авокадо, Огірок, Норі, Рис, Майонез японський,Чілі гарлік,  Кунжут смажений білий, Кунжут чорний.",
+    "id" : 19,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/hot-roll-krevetka.png?alt=media&token=2233df77-6d44-49b6-adb6-7c3346bf1781",
+    "nombre" : "Спайсі рол в кунжуті з креветкою 195г 8 шт.",
+    "precio" : "99"
+  }, {
+    "cantidad" : 1,
+    "description" : "Лосось, Авокадо, Огірок, Норі, Рис, Майонез японський,Чілі гарлік, Кунжут смажений білий, Кунжут чорний.",
+    "id" : 20,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/hot-roll-salmon.png?alt=media&token=b0dd3e47-740d-4ade-82c8-6d740328b312",
+    "nombre" : "Спайсі рол в кунжуті з лососем 195г 8 шт.",
+    "precio" : "69"
+  },
+  {
+    "cantidad" : 1,
+    "description" : "Вугор, Рис, Норі, Унагі соус, Кунжут смажений білий, Кунжут чорний.",
+    "id" : 23,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/PngItem_1138083.png?alt=media&token=137f5d47-f8d5-4571-941f-1101dd852bd6",
+    "nombre" : "Суші нігірі з вугорем 30г 1 шт.",
+    "precio" : "30"
+  }, {
+    "cantidad" : 1,
+    "description" : "Лосось, Рис, Норі, Унагі соус, Кунжут смажений білий, Кунжут чорний.",
+    "id" : 24,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/nigiri-vugor.png?alt=media&token=a8d18801-11cb-495a-b52e-c9e9fd2b13f2",
+    "nombre" : "Суші нігірі з лососем 30г 1 шт.",
+    "precio" : "30"
+  }, {
+    "cantidad" : 1,
+    "description" : " Рис, Омлет, Норі, Унагі соус, Кунжут смажений білий, Кунжут чорний.",
+    "id" : 25,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/omlet.png?alt=media&token=47de14b9-49fb-4629-a4c8-a59467528f3f",
+    "nombre" : "Суші нігірі з омлетом 35г 1 шт.",
+    "precio" : "10"
+  },
+   {
+    "cantidad" : 1,
+    "description" : "Лосось філе, Вугор, Масаго, Огірок, Норі, Рис, Унагі соус, Авокадо, Кунжут смажений білий, Кунжут чорний.",
+    "id" : 26,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/ROLL-KRASNYJ-DRAKON-200-g-600x450.png?alt=media&token=d61a6083-21bd-4441-ac20-68ffd0ae83c7",
+    "nombre" : "Червоний дракон 255г 8 шт.",
+    "precio" : "185"
+  }, {
+    "cantidad" : 1,
+    "description" : "Вугор, Масаго, Огірок, Авокадо, Норі, Рис, Унагі соус, Кунжут смажений білий, Кунжут чорний.",
+    "id" : 27,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9-%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD.png?alt=media&token=50dfeb5c-6f96-40f1-893d-e30148858e94",
+    "nombre" : "Зелений дракон 245г 8 шт.",
+    "precio" : "160"
+  }, {
+    "cantidad" : 1,
+    "description" : "Сніжний краб, Масаго, Огірок, Авокадо, Норі, Рис, Унагі соус, Кунжут смажений білий, Кунжут чорний, Майонез японський.",
+    "id" : 4,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/chornyj-drakon-e1586518307225.png?alt=media&token=566c3897-7c51-4e38-9b59-ae0428945ff9",
+    "nombre" : "Чорний дракон 240г 8 шт.",
+    "precio" : "195"
+  },
+  {
+    "cantidad" : 1,
+    "description" : "Лосось, Норі, Рис, Майонез японський, Чілі гарлік, Соус унагі, Кунжут смажений білий, Кунжут чорний.",
+    "id" : 1,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/losos2.png?alt=media&token=16f8c269-f7ae-4e87-9fe7-c654c01c8ce2",
+    "nombre" : "Спайсі гункан з лососем 30г 1 шт.",
+    "precio" : "22"
+  }, {
+    "cantidad" : 1,
+    "description" : "Креветка, Норі, Рис, Майонез японський, Чілі гарлік, Соус унагі, Кунжут смажений білий, Кунжут чорний.",
+    "id" : 2,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/krevetka2.png?alt=media&token=f9507785-b180-4c5e-bf2b-bde9cd38b151",
+    "nombre" : "Спайсі гункан з креветкою 30г 1 шт.",
+    "precio" : "25"
+  }, {
+    "cantidad" : 1,
+    "description" : " Вугор, Норі, Рис, Майонез японський, Чілі гарлік, Соус унагі, Кунжут смажений білий, Кунжут чорний.",
+    "id" : 3,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/54156-405-336-hunkan_z_vuhrem_proz_tin7.png?alt=media&token=3306bab6-726b-46e6-b418-4d51be1f07bc",
+    "nombre" : "Спайсі гункан з вугрем 30г 1 шт.",
+    "precio" : "25"
+  }, {
+    "cantidad" : 1,
+    "description" : "Чука, Норі, Рис, Майонез японський, Чілі гарлік, Соус унагі, Кунжут смажений білий, Кунжут чорний.",
+    "id" : 4,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/ugor2.png?alt=media&token=e5a2d1a8-3190-4e8f-82de-d7afa1cab078",
+    "nombre" : "Спайсі гункан з чукою 30г 1 шт.",
+    "precio" : "20"
+  },
+  {
+    "cantidad" : 1,
+    "description" : "Вугор, Лосось, Огірок, Авокадо, Масаго, Норі, Рис, Майонез японський.",
+    "id" : 1,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/futomaki-schiytake.jpg?alt=media&token=fe49f27d-f849-41c0-9a32-3fe98029474a",
+    "nombre" : "Футомакі рол 235г 8 шт.",
+    "precio" : "155"
+  }, {
+    "cantidad" : 1,
+    "description" : "Лосось смажений, Огірок, Норі, Рис, Кріп.",
+    "id" : 2,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/ultimo2.png?alt=media&token=e96a30b0-59e5-4624-8267-0163e6f69d41",
+    "nombre" : "Рол зі с маженим лососем в кропі 210г 8 шт.",
+    "precio" : "130"
+  }, {
+    "cantidad" : 1,
+    "description" : " Вугор, Норі, Рис, Майонез японський, Чілі гарлік, Соус унагі, Кунжут смажений білий, Кунжут чорний.",
+    "id" : 3,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/california-salmon-kopch.png?alt=media&token=10c4ae74-0de2-4722-a2a5-afc8009d027b",
+    "nombre" : "Рол зі смаженим лососем в кунжуті 210г 8 шт.",
+    "precio" : "135"
+  }, {
+    "cantidad" : 1,
+    "description" : "Лосось копчений, Філадельфія, Огірок, Норі, Рис, Лоло-россо.",
+    "id" : 4,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/ultimo.png?alt=media&token=64a7cdf8-7c5e-41e1-83c2-15fea9f81449",
+    "nombre" : "Кунсей рол 145г 8 шт.",
+    "precio" : "89"
+  },
+  {
+    "cantidad" : 1,
+    "description" : "Червоний Дракон, Зелений Дракон, Чорний Дракон",
+    "id" : 50,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/set1.png?alt=media&token=823ab4d1-fcfc-4e0a-8fb3-fb5941b2bfd3",
+    "nombre" : "Сет Дракон , 735г(24шт)",
+    "precio" : "469"
+  }, {
+    "cantidad" : 1,
+    "description" : "Спайсі рол в кунжуті з креветкою, Спайсі рол в кунжуті з лососем, Рол зі смаженим лососем в кропі , Філадельфія рол в кунжутіз вугрем, Філадельфія рол в кунжуті з лососем",
+    "id" : 52,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/sushimania.png?alt=media&token=e7221a4c-598f-4483-805c-08e0ba5318f2",
+    "nombre" : "Сет Кунсей ,1000г (40 шт).",
+    "precio" : "399"
+  }, {
+    "cantidad" : 1,
+    "description" : " Філадельфія класік в лососі копченому, Філадельфія рол в кунжуті з крабом, Макі рол з огірком, Каліфорнія рол в кунжуті з лососем, Калифорния в кунжуті з вугрем",
+    "id" : 53,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/fenshui-set.png.pagespeed.ce.IX6HIvS7jN.png?alt=media&token=ed4a2480-9429-4e04-b96d-90eab9f34b3b",
+    "nombre" : "Сет Мікс ,1000г (40 шт).",
+    "precio" : "489"
+  }, {
+    "cantidad" : 1,
+    "description" : "Філадельфія XL в копченому лососі, Каліфорнія XL в копченому лососі, Спайсі рол  в кунжуті  з креветкою, Спайсі рол в кунжутіз вугрем, Каліфорнія рол в кунжуті з крабом",
+    "id" : 54,
+    "imgURL" : "https://firebasestorage.googleapis.com/v0/b/robust-charge-142003.appspot.com/o/setr4.png?alt=media&token=6b48aba3-59f5-416b-9cd0-3e724f32362d",
+    "nombre" : "Сет Вікторія ,1200г (40 шт).",
+    "precio" : "549"
+  } ]
+
