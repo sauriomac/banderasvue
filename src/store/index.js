@@ -16,7 +16,7 @@ export default createStore({
   actions: {
     async getPaises({commit}){
       try {
-        let url='https://restcountries.eu/v3/all';
+        let url='https://restcountries.com/v3/all';
         const res = await fetch(url);
         const data = await res.json();
         console.log(data);

@@ -1,9 +1,9 @@
 <template>
   <div class="card mb-1">
           <div class="card-body">
-            <h5 class="card-title text-center">{{pais.name}}</h5>
+            <h5 class="card-title text-center">{{pais.name.common}}</h5>
             <p class="text-center">
-              <img :src="pais.flag" :alt="`bandera-${pais.flag}`" class="img-fluid w-50">
+              <img :src="pais.flags[1]" :alt="`bandera-${pais.flags[1]}`" class="img-fluid w-50">
             </p>
             <p class="card-text">
               <span class="badge badge-dark mb-1 d-block">nativeName: {{pais.nativeName}}</span>
