@@ -36,7 +36,7 @@ export default createStore({
 
     filtroName({ commit, state }, name) {
       const filtro = state.paises.filter((pais) => {
-        let nombreApi = pais.nativeName.toLowerCase();
+        let nombreApi = pais.name.common.toLowerCase();
         let nombreInput = name.toLowerCase();
         if (nombreApi.includes(nombreInput)) {
           return pais;
